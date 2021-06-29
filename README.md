@@ -6,7 +6,7 @@ Code repository associated with the paper [arXiv:1903.12190](https://arxiv.org/a
 
 2. CalculationDetails.nb contains the calculations in the paper for various dark matter models.
 
-![Constraints on dark photon dark matter.](paper/DataFiles/HPDM.png)
+![Constraints on dark photon dark matter.](DataFiles/HPDM.png)
 
 If you are interested in more details about a particular part of the calculation, please feel free to email me at: jay.wadekar@nyu.edu
 
